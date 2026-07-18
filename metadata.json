@@ -1,0 +1,6 @@
+{
+  "name": "HealAI Portal",
+  "description": "A clinical virtual-office portal for patient experience intelligence, featuring four specialized AI agents to analyze patient feedback, monitor experience metrics, triage complaints, and perform interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
